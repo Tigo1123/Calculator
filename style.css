@@ -50,12 +50,9 @@ button {
 
 button:hover {
   background: #2d4263;
-  transform: scale(1.5);
 }
 
-button:active {
-  transform: scale(0.95);
-}
+
 #history {
   color: #404040;
   font-size: 14px;
